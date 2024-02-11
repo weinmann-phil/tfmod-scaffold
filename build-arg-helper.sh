@@ -1,0 +1,1 @@
+github.com/terraform-linters/tflint-ruleset-azurerm
